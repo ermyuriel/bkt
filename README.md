@@ -10,6 +10,8 @@ The pipeline illustrates the standard flow of raw data upload to a storage syste
 
 - Docker
 - Docker Compose
+- MySQL client
+- Mongo client
 - Python 3
 - pymongo
 - mysql.connector
